@@ -7,5 +7,4 @@ this is a full size keyboard with how swap key,knob and display
 # CAD
 [Case Front](images/cad1.png)
 [Case Back](images/cad2.png)
-# Key Layout
-[Key Layout](images/keyl.png)
+
